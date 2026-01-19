@@ -1,3 +1,5 @@
+#Run menggunakan file AppUtama.java
+
 Topik TP: Aplikasi Kasir Sederhana (POS)
 
 Anggota:
